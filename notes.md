@@ -1,0 +1,15 @@
+code smells:
+- main naar functie extracten
+- roll function is te lang
+- dry (self.current_player) -> player class
+  - eerst extracten naar properties
+  - dan Player class maken
+- was correctly answered 
+  - ->te lang -- functies extracten
+  - separation of concerns (winner-bepaling extracten)
+- wrong answer & was correctly answered hernoemen / separation of concerns
+- f strings
+- type hints
+  - boy scout methode
+- Tests voor kleinere stukjes code
+- _current_category versimpelen
